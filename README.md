@@ -2,7 +2,8 @@
 I am currently a:
 - Software/Cloud/DevSecOps Engineer at Kythera Space Solutions
 - Computer Science student at Northeastern University
-- Mentor on FRC Team 246 Overclocked
+- Software Mentor on FRC Team 246 Overclocked
+- Developer on the Roblu Team
 
 My public personal projects are attached to this account, and I am doing some work in the Roblu and FRC 246 Overclocked organizations.
 

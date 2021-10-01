@@ -11,7 +11,9 @@ FRC Team 87   Software Lead        2017-2018
 FRC Team 5113 Software Contributor 2018-2020
 FRC Team 246  Software Mentor      2020-Present
 
+My current personal projects are attached to this account, and I am doing some work in the Roblu and FRC 246 Overclocked organizations.
 
+For some repositories I have worked on in the past, [take a look at my forks organization](https://github.com/aidan-mundy-forks)! There is a lot of FRC code there, and some contributions to miscellaneous open source projects. 
 <!--
 **aidan-mundy/aidan-mundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

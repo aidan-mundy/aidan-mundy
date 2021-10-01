@@ -15,7 +15,6 @@ At the moment, I am focusing my programming language learning on:
 - GitHub Actions
 
 I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazing opportunity for high school students, and everyone should know about it!
-Here is my history in FIRST:
 |Program|Team #|Role                |Dates       |
 |-------|------|--------------------|------------|
 |FRC    |87    |Software Lead       |2017-2018   |

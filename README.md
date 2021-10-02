@@ -1,5 +1,5 @@
 ### Hello, hello. How goes it? 👋
-I am currently a:
+I am currently writing code as a:
 - Software/Cloud/DevSecOps Engineer at Kythera Space Solutions
 - Computer Science student at Northeastern University
 - Software Mentor on FRC Team 246 Overclocked
@@ -21,7 +21,7 @@ I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazin
 |FRC    |5113  |Software Contributor|2018-2020   |
 |FRC    |5113  |Strategy Lead       |2018-2020   |
 |FRC    |5113  |Mechanical Lead     |2019-2020   |
-|FRC    |246   |Software Mentor     |2020-Present|
+|FRC    |246   |Mentor              |2020-Present|
 
 <!--
 **aidan-mundy/aidan-mundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

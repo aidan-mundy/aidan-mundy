@@ -9,9 +9,10 @@ My public personal projects are attached to this account, and I am doing some wo
 
 For some repositories I have worked on in the past, [take a look at my forks organization](https://github.com/aidan-mundy-forks)! There is a lot of FRC code there, and some contributions to miscellaneous open source projects. 
 
-At the moment, I am focusing my programming language learning on:
+At the moment, I am focusing my programming language/technology learning on:
 - Terraform
 - Dart
+- Go
 - GitHub Actions
 
 I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazing opportunity for high school students, and everyone should know about it!

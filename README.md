@@ -7,7 +7,7 @@ I am currently writing code as a:
 
 My public personal projects are attached to this account, and I am doing some work in the Roblu and FRC 246 Overclocked organizations.
 
-For some repositories I have worked on in the past, [take a look at my forks organization](https://github.com/aidan-mundy-forks)! There is a lot of FRC code there, and some contributions to miscellaneous open source projects. 
+For most of my open source contributions, and some repositories I have worked on in the past, [take a look at my forks organization](https://github.com/aidan-mundy-forks)! 
 
 At the moment, I am focusing my programming language/technology learning on:
 - Terraform

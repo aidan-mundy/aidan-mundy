@@ -3,7 +3,7 @@ I am currently writing code as a:
 - Software/Cloud/DevSecOps Engineer at Kythera Space Solutions
 - Computer Science student at Northeastern University
 - Software Mentor on FRC Team 246 Overclocked
-- Developer on the Roblu Team
+- Developer on the Roblu Scouting Team
 
 My public personal projects are attached to this account, and I am doing some work in the Roblu and FRC 246 Overclocked organizations.
 

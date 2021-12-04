@@ -22,7 +22,7 @@ I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazin
 |FRC    |5113  |Software Contributor|2018-2020   |
 |FRC    |5113  |Strategy Lead       |2018-2020   |
 |FRC    |5113  |Mechanical Lead     |2019-2020   |
-|FRC    |246   |Mentor              |2020-Present|
+|FRC    |246   |Mentor/Coach        |2020-Present|
 
 <!--
 **aidan-mundy/aidan-mundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

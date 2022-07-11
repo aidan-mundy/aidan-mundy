@@ -4,7 +4,8 @@
 
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a:
-- Computer Science student at Northeastern University
+- SWE at Fidelity Investments
+- CS student at Northeastern University
 - Software Mentor on FRC Team 246 Overclocked
 - Developer on the Roblu Scouting Team
 

@@ -3,8 +3,8 @@
 -->
 
 ### Hello, hello. How goes it? 👋
-I am currently writing code as a:
-- SWE at Fidelity Investments
+I am currently writing code as a(n):
+- SWE Co-Op at Fidelity Investments
 - CS student at Northeastern University
 - Software Mentor on FRC Team 246 Overclocked
 - Developer on the Roblu Scouting Team
@@ -16,7 +16,7 @@ My public personal projects are attached to this account, and I am doing some wo
 At the moment, I am focusing my programming language/technology learning on:
 - Dart/Flutter
 - Go
-- GitHub Actions
+- SQL
 
 I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazing opportunity for high school students, and everyone should know about it!
 |Program|Team #|Role                |Dates       |

@@ -1,5 +1,6 @@
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a(n):
+- SWE Intern at HashiCorp
 - CS student at Northeastern University
 - Software Mentor on FRC Team 246 Lobstah Bots
 - Developer on the Roblu Scouting Team

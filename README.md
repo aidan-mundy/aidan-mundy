@@ -18,6 +18,4 @@ I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazin
 |-------|------|----------------------|------------|
 |FRC    |87    |Software Lead         |2017-2018   |
 |FRC    |5113  |Software Contributor  |2018-2020   |
-|FRC    |5113  |Strategy Lead         |2018-2020   |
-|FRC    |5113  |Mechanical Lead       |2019-2020   |
 |FRC    |246   |Mentor/Coach          |2020-2023   |

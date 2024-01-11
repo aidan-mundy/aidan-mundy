@@ -1,7 +1,7 @@
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a(n):
 - CS Undergraduate Student at Northeastern University
-  - Graduating April 2024. Looking for full-time positions in SWE/DevOps/SRE/CloudEng beginning May 2024
+  - Graduating April 2024. **Looking for full-time positions in SWE/DevOps/SRE/CloudEng beginning May 2024**
 - MIT Battlecode Competitor
 - Developer on the Roblu Scouting Team
 

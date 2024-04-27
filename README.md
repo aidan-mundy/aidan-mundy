@@ -1,11 +1,9 @@
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a(n):
 - CS Undergraduate Student at Northeastern University
-  - Graduating April 2024. **Looking for full-time positions in SWE/DevOps/SRE/CloudEng beginning May 2024**
-- MIT Battlecode Competitor
-- Developer on the Roblu Scouting Team
+  - Graduated April 2024. **Looking for full-time positions in SWE/DevOps/SRE/CloudEng**
 
-My public personal projects are attached to this account, and I am doing some work in the [Roblu](https://github.com/RobluScouting) organization.
+My public personal projects are attached to this account.
 
 **For most of my open source contributions, and some other repositories I have worked on in the past, [take a look at my separate forks page](https://github.com/aidan-mundy-forks)!**
 

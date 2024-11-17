@@ -1,7 +1,6 @@
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a(n):
-- CS Undergraduate Student at Northeastern University
-  - Graduated April 2024. **Looking for full-time positions in SWE/DevOps/SRE/CloudEng**
+- Cloud Engineer at SimpliSafe
 
 My public personal projects are attached to this account.
 

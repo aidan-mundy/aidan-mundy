@@ -1,15 +1,10 @@
 ### Hello, hello. How goes it? 👋
 I am currently writing code as a(n):
-- Cloud Engineer at SimpliSafe
+- DevSecOps Engineer at Moveworks (by ServiceNow) 
 
 My public personal projects are attached to this account.
 
 **For most of my open source contributions, and some other repositories I have worked on in the past, [take a look at my separate forks page](https://github.com/aidan-mundy-forks)!**
-
-At the moment, I am focusing my programming language/technology learning on:
-- Kubernetes
-- Dart/Flutter
-- Go
 
 I'm a big supporter of FIRST and the FIRST Robotics Competition, it is an amazing opportunity for high school students, and everyone should know about it!
 |Program|Team #|Role                  |Dates        |
